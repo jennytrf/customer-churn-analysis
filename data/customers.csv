@@ -1,0 +1,9 @@
+customer_id,age,monthly_spend,tenure_months,contract_type,support_tickets,churn
+1,25,40,3,Monthly,4,1
+2,45,70,24,Yearly,1,0
+3,31,55,12,Monthly,2,0
+4,52,90,36,Yearly,0,0
+5,23,30,2,Monthly,5,1
+6,39,65,18,Monthly,3,0
+7,48,80,30,Yearly,1,0
+8,29,45,6,Monthly,4,1
